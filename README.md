@@ -1,2 +1,4 @@
-# 2019_ELEC_FESTIVAL.UNI
-2019 전자페스티벌 - 아두이노, 제스쳐 센서, 블루투스를 이용하여 손으로 드론 조종 
+# 2019_Electronic_Engineering_Design_Festival
+
+## Control drone using gesture sensor and arduino
+<img src="https://github.com/Ho-mmd/Electronic_Engineering_Design_Festival/assets/55338823/5d5d5863-be0a-4ae5-a16b-3935bcf9a9d8" alt="drawing" style="width:300px;"/>
